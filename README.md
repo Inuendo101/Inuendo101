@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Inuendo101
+- 👋 Hi, I’m Goshen
 - 👀 I’m interested in music, games, stories (writing or otherwise)
 - 🌱 I’m currently learning game development and IT at Swinburne University
 - 💞️ I’m looking to collaborate on music and maybe learn more coding.
